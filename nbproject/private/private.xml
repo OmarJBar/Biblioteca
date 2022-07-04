@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasAutor.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasCategoria.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasEditorial.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlAutor.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlCategoria.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlIdioma.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlLibro.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlMetodos.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlEditorial.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasFactura.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasIdioma.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/consultas/consultasDistribuidor.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/modelo/conector.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlFactura.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/control/CtrlDistribuidor.java</file>
+            <file>file:/C:/Users/omar/Documents/NetBeansProjects/bibliotecaDB/src/vista/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
